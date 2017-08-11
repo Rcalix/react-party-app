@@ -6,7 +6,6 @@ export default function googleReducer(state = initialState.profile, action) {
         case types.GET_GOOGLE_PROFILE:
             return action.profile;
         default:
-            console.log('nothing to do');
             return state;
         
     }
