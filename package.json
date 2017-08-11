@@ -1,7 +1,7 @@
 {
-  "name": "pluralsight-redux-starter",
+  "name": "Party App",
   "version": "1.0.0",
-  "description": "Starter kit for React and Redux Pluralsight course by Cory House",
+  "description": "Provides a random event that you can enjoy with your friends by visiting nearby places",
   "scripts": {
     "prestart": "babel-node tools/startMessage.js",
     "start": "npm-run-all --parallel open:src lint:watch test:watch",
